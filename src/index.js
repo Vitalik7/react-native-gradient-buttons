@@ -1,6 +1,6 @@
 import React from "react";
 import { Platform, StyleSheet, Text, TouchableOpacity } from "react-native";
-import { LinearGradient } from "expo-linear-gradient";
+import LinearGradient from 'react-native-linear-gradient';
 import * as Haptics from "expo-haptics";
 
 const styles = StyleSheet.create({
