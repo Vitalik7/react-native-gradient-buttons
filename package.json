@@ -24,8 +24,8 @@
     "build": "tsc"
   },
   "dependencies": {
-    "expo-haptics": "^9.0.0",
-    "expo-linear-gradient": "^9.0.0"
+    "expo-haptics": "^12.2.1",
+    "expo-linear-gradient": "^12.1.1"
   },
   "peerDependencies": {
     "react": ">= 16.x",
